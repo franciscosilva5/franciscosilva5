@@ -18,7 +18,7 @@ triage, anomaly detection, semantic runbook retrieval, root-cause
 hypotheses, operational risk assessment and human approval.
 
 [Live Demo](https://mk7xvbwqcdv5up5acwg7df.streamlit.app/) |
-[Source Code](https://github.com/Vercetius/ai-incident-response-agent)
+[Source Code](https://github.com/franciscosilva5/ai-incident-response-agent)
 
 ### Multimodal Document Intelligence
 
@@ -28,7 +28,7 @@ orders and delivery receipts, detecting duplicates and producing
 explainable risk assessments.
 
 [Live Demo](https://multimodal-document-intelligence-eqwvanzp5rawtwfgtufgqv.streamlit.app/) |
-[Source Code](https://github.com/Vercetius/multimodal-document-intelligence)
+[Source Code](https://github.com/franciscosilva5/multimodal-document-intelligence)
 
 ### PDF RAG Assistant
 
@@ -37,7 +37,7 @@ embeddings, FAISS retrieval, cross-encoder reranking and
 evidence-grounded responses with page citations.
 
 [Live Demo](https://rag-pdf-chatbot-vercetius.streamlit.app/) |
-[Source Code](https://github.com/Vercetius/rag-pdf-chatbot)
+[Source Code](https://github.com/franciscosilva5/rag-pdf-chatbot)
 
 ### Plant Disease Classifier
 
@@ -49,7 +49,7 @@ Test accuracy: 90.62%
 Macro F1: 90.77%
 
 [Live Demo](https://plant-disease-classifier-vercetius.streamlit.app/) |
-[Source Code](https://github.com/Vercetius/plant-disease-classifier)
+[Source Code](https://github.com/franciscosilva5/plant-disease-classifier)
 
 ## More Projects
 
@@ -59,7 +59,7 @@ A support-ticket workflow combining classification, semantic
 retrieval, reranking, grounded responses and escalation.
 
 [Live Demo](https://ai-customer-support-system-vercetius.streamlit.app/) |
-[Source Code](https://github.com/Vercetius/ai-customer-support-system)
+[Source Code](https://github.com/franciscosilva5/ai-customer-support-system)
 
 ### NLP Support Ticket Classifier
 
@@ -67,7 +67,7 @@ An NLP classification application for customer support tickets,
 including model evaluation and semantic generalization.
 
 [Live Demo](https://nlp-support-ticket-classifier-lecdv8vhvrqmsh762yxeud.streamlit.app/) |
-[Source Code](https://github.com/Vercetius/nlp-support-ticket-classifier)
+[Source Code](https://github.com/franciscosilva5/nlp-support-ticket-classifier)
 
 ### Customer Churn Prediction
 
@@ -76,7 +76,7 @@ logistic regression, threshold optimization, cross-validation
 and ROC-AUC evaluation.
 
 [Live Demo](https://customer-churn-ml999.streamlit.app/) |
-[Source Code](https://github.com/Vercetius/customer-churn-prediction)
+[Source Code](https://github.com/franciscosilva5/customer-churn-prediction)
 
 ## Technical Skills
 
